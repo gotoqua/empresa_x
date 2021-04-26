@@ -1,0 +1,64 @@
+.carousel-indicators li {
+    width: 10px !important; 
+    height: 10px !important;
+    border-radius: 100% !important;
+    background-color: #1d2124 !important;
+    color: black;
+}
+.carousel-indicators {
+    bottom: -50px !important;
+}
+
+.bg-nav {
+    background-color: #ebebeb;
+}
+
+.btn-fone {
+    color: white;
+    background-color: #db6a46;
+    border: none;    
+    padding: 0.5rem 1rem;
+    font-size: 1.25rem;
+    line-height: 1.5;  
+
+}
+
+.btn-more {
+    color: white;
+    background-color: #e7ac28;
+    border: none;
+    padding: 0.5rem 4rem;
+    font-size: 1.25rem;
+    line-height: 1.5;    
+}
+
+.carousel-caption {
+    top: 30%;
+}
+
+.carousel-caption h2 {
+    font-size: 50px;
+    margin-bottom: 30px;
+    color: black;
+    font-weight: bold;
+
+}
+
+.bg-footer {
+    background-color: #ebebeb;
+}
+
+.tel {
+    color: black;
+    border: none;
+    font-weight: bold;
+    font-size: 19px;
+}
+
+#sh-more {
+    display: none;
+}
+
+#sh-more2 {
+    display: none;
+}
